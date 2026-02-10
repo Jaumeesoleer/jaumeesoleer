@@ -1,43 +1,42 @@
-### Hi there 👋
+## Hi there 👋
 
-#### Aspiring Data Analyst | Software Engineer
+### Data Analyst Junior | Computer Engineering Student
 
-I'm a Computer Engineering student with a strong interest in **Data Analysis**, especially applied to **sports analytics**.  
-I enjoy working with data end-to-end: from collection and cleaning to analysis and visualization.
+I'm a Computer Engineering student with a strong interest in **Data Analysis and Sports Analytics**.  
+I enjoy working with data end-to-end: from **data collection and cleaning** to **analysis, visualization and insight generation**.
 
 ---
 
-### 🧠 What I’m working with
+### 🧠 Technical Skills
 
-- 📊 **Data Analysis**
-  - Python (pandas, numpy)
-  - Data cleaning & EDA
-  - Data visualization (matplotlib, seaborn)
-  - SQL (joins, aggregations, subqueries, window functions)
+#### 📊 Data Analysis
+- Python (pandas, numpy)
+- Data cleaning & exploratory data analysis (EDA)
+- Data visualization (matplotlib, seaborn)
+- SQL (joins, aggregations, subqueries, window functions)
 
-- ⚽ **Sports Analytics**
-  - Football performance analysis (xG, player & team metrics)
-  - Real datasets (StatsBomb Open Data)
+#### ⚽ Sports Analytics
+- Football performance analysis (xG, player & team metrics)
+- Analysis adjusted per 90 minutes
+- Real datasets (StatsBomb Open Data)
 
-- 💻 **Software & Web Development**
-  - HTML, CSS, JavaScript
-  - PHP
-  - Git & GitHub
+#### 💻 Software & Tools
+- Git & GitHub
+- HTML, CSS, JavaScript
+- PHP
 
 ---
 
 ### 🚀 What I’m currently doing
-- Building data analysis projects with real datasets
-- Strengthening my SQL skills for data analytics
-- Developing a portfolio focused on data & sports analytics
+- Building **data analysis projects** with real-world datasets
+- Strengthening **SQL skills** for business and data analytics
+- Developing a portfolio focused on **data & sports analytics**
 
 ---
 
 ### 🔎 Interests
 - Data-driven decision making
 - Sports analytics (football, running, motorsport)
-- Continuous learning and real-world projects
+- Continuous learning and real-world problem solving
 
----
-
-### 👨‍💻 Still learning, always improving
+👨‍💻 Always learning, always improving
