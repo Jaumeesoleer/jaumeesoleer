@@ -39,4 +39,4 @@ I enjoy working with data end-to-end: from **data collection and cleaning** to *
 - Sports analytics (football, running, motorsport)
 - Continuous learning and real-world problem solving
 
-👨‍💻 Always learning, always improving
+### 👨‍💻 Always learning, always improving
